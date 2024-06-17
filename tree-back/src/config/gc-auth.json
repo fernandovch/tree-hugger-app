@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "tree-hugger-app",
+    "private_key_id": "dee63c160f7fe7e646201fc6d9f712774727ba59",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCRcaDe3rcM7Rf+\nwCz7i4ist8Wdc+gnXwmx9HG48NbU+Ux4UcvHWbzkIHDhDiVQbtylmnFktgO+o/NM\ny4uZbZbZBkpkQc3QmqDsYwyD/ClN+zsPgIEtCb+3ictV//nKeC+e4dsTG1QbMnAk\nFvC5mO1NlXZ/bJhQKB/HANeUaGe5SzA4+UFSgPmsCbdFgdr9Zgh12ITVTuKsXMkI\npouifKfEcu3k1bFaAgcSiViSowGtwd28/jCo4vUmF17vILthb5tyXSmVw+5ttvvN\n0lcyV7n8ka6mDa0VQaGsHRASTtcR1S2Tv9sW7B6URRPqxlxSwUtQAXuaK76LfU/8\nEsYB8IANAgMBAAECggEADRcQ+rFIzR0GeW/wz6++diBEGBu3Qg164RocpVLnwvTj\ncQcyAMsobDYo2QvEFMa/JrINXc16VACL6tZKLJDno4WLBHyRRyKwZ3x/dkTBSVRA\nyIn94xo36w9RaBGvX0DZ6Fujf/pU44dY/tm7Tx9ez3DFE+R0moioWemb4+HrRyRE\n6B2CKJtEFXwIaBqAiZGuQBHFd/WmxQQUG2YR4kH0SOMGhp8RgKQzKS83Cf/WKcSF\n0qhR03tGDs4x+Ts1xyaXDit4O0tgrmufCZbunS/jCuXArwBWmNewxMAWl+0/bxpQ\nkZuCd5+VaGwcJvmjzWG+zhJBa/EgGRnzx/ySPUOd8QKBgQDEOCzsm1uXbzsfNMrl\nZhrz3U3SPgq3PNAiWRr0DMfO3E59q4HVi1zEHSWMnA7mVp+/PfWAjIaG5dx0LnY+\n7vnocNWuCmiKwM+i1PG1Z2ImCzwG5Ccqkzu7h2+NHysKuNT9vpLCIdzWMK0To73g\nuyi0vFafxU5Y/nBLVHPdov1eswKBgQC9wUrTdeCs0ixCZufRr6QLUZrzKrJBrjOu\nYb6ciST0xNN1iMUmFrARhlorUxcRg5lM4nyi0jfWSi8lu/ZBmKMfgv/ceGqHZR8m\nm8YPtxgmfAvbJZw9tWF1YlceZXL9kTVBVetVByolof3QTDLBxYjZ8a5sG3JiS3Fb\n7eqA5CoGPwKBgH+3VL5YzL//nUrNkPbJg+eQ9xNOYKkuAwcoWlvZacBiMxCnLmXx\nRNs9YXBpL2WLooTW7lHSpcluGhThHQQPhkheEScsDSmrIDsLQZxig0bh7xtJK5kR\npkKEf/4p+FkNP0092sZTRiuAGVd8L530FCW3pOZvhXR1gF/3w0bSzPnzAoGBALWa\nBMOl39Vl+8e89oWeZBAVFIc+SIVFc96jWyoysrSynnGw6IVQV0ceXrNx/PTdDl0f\nsQqex6OFMeQaJE6ZBxzEYZydfc6Af7SShpZJs4o5U5tzPjlsmo4eBKRpkQiN7PrP\ngL7KcZK8ms277yO1qghzHWwHRIxACYhihPi/5Fw/AoGBAJbgdGMG636BojnRzozb\n2W6Qg2pm+9Q8HDfOB3Y2l4fkER78V7hbyJMYLNqoKsvRRwwOaKO8/F7smfFglmvd\nQNV1lKGQXu4FLQeRuKmOCJUy0CRkQz+zq8vFgvAKafKf6VuXN24pTtZa6iP8vvCk\n/PsT16Fh1kMcJwm3szEKHlsz\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-m71qk@tree-hugger-app.iam.gserviceaccount.com",
+    "client_id": "105004008597637103257",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-m71qk%40tree-hugger-app.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
