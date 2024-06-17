@@ -7,6 +7,7 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+/src/config/gc-config.json
 /node_modules
 /dist
 /dist-ssr
@@ -22,3 +23,6 @@ lerna-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+
+
