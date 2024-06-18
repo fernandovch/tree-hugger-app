@@ -7,7 +7,7 @@ const app_router = require('./src/routes/router');
 
 const admin = require('firebase-admin');
 const { cert } = require('firebase-admin/app');
-const serviceAccount = require('./src/config/gc-auth.json');
+const serviceAccount = require('./src/config/gcfb-auth.json');
 
 const router = require('express').Router();
 
