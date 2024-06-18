@@ -7,7 +7,7 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-/src/config/gc-config.json
+/src/config/gc-auth.json
 /node_modules
 /dist
 /dist-ssr
